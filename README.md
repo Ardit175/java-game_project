@@ -30,13 +30,13 @@ Ky është një projekt i zhvilluar si detyrë kursi për lëndën "Programim i 
 
 ### 1. Klono repository-n
 ```bash
-git clone https://github.com/yourusername/maze-game.git
+git clone https://github.com/Ardit175/java-game_project.git
 cd maze-game
 ```
 
 ### 2. Konfiguro MySQL
 ```bash
-# Instalo MySQL në Mac duke përdorur Homebrew
+# Instalo MySQL në *Mac* duke përdorur Homebrew
 brew install mysql
 brew services start mysql
 
@@ -136,16 +136,8 @@ javac -version
 echo $CLASSPATH
 ```
 
-### Raportimi i Problemeve
-Për probleme ose sugjerime, ju lutem krijoni një issue në GitHub repository.
-
-## Licenca
-Ky projekt është licensuar nën termat e MIT License.
 
 ## Autorët
-- [Emri juaj]
-- [Emri i profesorit]
-- [Universiteti/Fakulteti]
+- Ardit Palushi
 
 ---
-© 2024-2025 Të gjitha të drejtat të rezervuara.
